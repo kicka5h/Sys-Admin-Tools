@@ -7,7 +7,7 @@ Using a combination of O365 Powershell and Graph API. Intended to aid in the pop
 <br>
 
 ### HaveIBeenPwned_User_Audit.ps1
-Uses a combination of Graph API and HaveIBeenPwned API. Requires a month or monthly subscription from HaveIBeenPwned. Audits O365 user accounts for breaches present in the HaveIBeenPwned database.
+Uses a combination of Graph API and HaveIBeenPwned API. Requires a month or monthly subscription from HaveIBeenPwned for $3.50 a month. Audits O365 user accounts for breaches present in the HaveIBeenPwned database.
 <br>
 
 ### Forward_Event.ps1
