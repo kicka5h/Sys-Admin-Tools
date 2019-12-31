@@ -17,3 +17,7 @@ Leveraging both Graph API and O365 Powershell, this script will alert you when y
 ### Forward_Event.ps1
 This script leverages Graph API to grab an event object from a source calendar and forward it to a target calendar based on a defined subject string.
 <br>
+
+### Send_Email.ps1
+Use HTML/CSS and Powershell to style and send attractive emails.
+<br>
