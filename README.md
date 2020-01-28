@@ -21,3 +21,7 @@ This script leverages Graph API to grab an event object from a source calendar a
 ## Send_Email.ps1
 Use HTML/CSS and Powershell to style and send attractive emails.
 <br>
+
+## Email_Reputation_Audit.ps1
+Use the free emailrep.io tool to check the online reputation of a list of email accounts pulled from O365 quarantine.
+<br>
