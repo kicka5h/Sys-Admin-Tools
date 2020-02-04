@@ -25,3 +25,7 @@ Use HTML/CSS and Powershell to style and send attractive emails.
 ## Email_Reputation_Audit.ps1
 Use the free emailrep.io tool to check the online reputation of a list of email accounts pulled from O365 quarantine.
 <br>
+
+## Call_GitHub_from_Powershell.ps1
+This script uses a GitHub personal access token passed in an HTTP call to GitHub API to locally run a script from a private GitHub repo.
+<br>
