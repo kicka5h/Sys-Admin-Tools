@@ -1,10 +1,15 @@
 <#
 .SYNOPSIS
-  <Intended to aid in the population of an O365 test environment by creating users and Teams. Recommended to run in a tenant with no users or Teams. Not recommened for prod tenants.>
+  This script does not support MFA. Intended to aid in the population of an O365 test environment by creating users and Teams. Recommended to run in a tenant with no users or Teams. Not recommened for prod tenants.
 .DESCRIPTION
-  <This script creates 2 users, 10 Teams, 5 Channels in those Teams, posts 5 messages to each channel, and uploads 5 txt files to each channel site>
+  This script does not support MFA. This script creates 2 users, 10 Teams, 5 Channels in those Teams, posts 5 messages to each channel, and uploads 5 txt files to each channel site.
 .INPUTS
-  <Global admin user credentials, user license assignment, Tenant ID/ClientID/SecretID for Azure Native App for Graph>
+  AdminUser. The admin username for the O365 tenant.
+  AdminPass. The admin password for the O365 tenant.
+  License. The type of license to assign to the user accounts.
+  TenantID. The tenant ID of the O365 tenant.
+  ClientID. The client ID of the Azure app for Graph. 
+  ClientSecret. The client secret of the Azure app for Graph.
 .OUTPUTS
   <None>
 .NOTES

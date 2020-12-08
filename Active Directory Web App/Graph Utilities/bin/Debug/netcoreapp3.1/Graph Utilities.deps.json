@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Graph Utilities/1.0.0": {
+        "dependencies": {
+          "Microsoft.Identity.Client": "4.24.0"
+        },
+        "runtime": {
+          "Graph Utilities.dll": {}
+        }
+      },
+      "Microsoft.Identity.Client/4.24.0": {
+        "runtime": {
+          "lib/netcoreapp2.1/Microsoft.Identity.Client.dll": {
+            "assemblyVersion": "4.24.0.0",
+            "fileVersion": "4.24.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Graph Utilities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Identity.Client/4.24.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QrlOSzUzZxrsmFZ+fMKeggKKCr6qzMVupGAY/Llp+RZ3zfqLxyDsh7R85UHNAQbu9OhI+yNUQPHKog2knfxUeQ==",
+      "path": "microsoft.identity.client/4.24.0",
+      "hashPath": "microsoft.identity.client.4.24.0.nupkg.sha512"
+    }
+  }
+}

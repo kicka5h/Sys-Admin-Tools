@@ -1,0 +1,5 @@
+C:\Users\ashle\Downloads\active-directory-aspnetcore-webapp-openidconnect-v2-aspnetcore3-1\Graph Utilities\bin\Debug\netcoreapp3.1\Graph Utilities.deps.json
+C:\Users\ashle\Downloads\active-directory-aspnetcore-webapp-openidconnect-v2-aspnetcore3-1\Graph Utilities\bin\Debug\netcoreapp3.1\Graph Utilities.dll
+C:\Users\ashle\Downloads\active-directory-aspnetcore-webapp-openidconnect-v2-aspnetcore3-1\Graph Utilities\obj\Debug\netcoreapp3.1\Graph Utilities.csprojAssemblyReference.cache
+C:\Users\ashle\Downloads\active-directory-aspnetcore-webapp-openidconnect-v2-aspnetcore3-1\Graph Utilities\obj\Debug\netcoreapp3.1\Graph Utilities.AssemblyInfoInputs.cache
+C:\Users\ashle\Downloads\active-directory-aspnetcore-webapp-openidconnect-v2-aspnetcore3-1\Graph Utilities\obj\Debug\netcoreapp3.1\Graph Utilities.AssemblyInfo.cs
